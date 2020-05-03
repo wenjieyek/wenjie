@@ -1,0 +1,2 @@
+class WenjieController < ApplicationController
+end
